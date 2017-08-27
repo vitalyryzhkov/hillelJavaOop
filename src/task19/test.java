@@ -2,7 +2,8 @@ package task19;
 
 public class test {
     public static void main(String[] args) {
-         System.out.println("test");
+        String test = "test";
+        System.out.println(test);
 
     }
 }
